@@ -8,5 +8,5 @@ This conference room is bound to the direct number. It is possible to open furth
 
 To be able to open own conference rooms, please dial the provided number, wait for the announcement, and enter the PIN.
 
-The official documentation from the compute center can be [found here](www.rz.uni-freiburg.de/services/netztel/telefon).
+The official documentation from the compute center can be [found here](https://www.rz.uni-freiburg.de/services/netztel/telefon).
 
